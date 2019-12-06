@@ -1,3 +1,5 @@
+The package was moved https://github.com/seznam/ima/tree/master/packages/server.
+
 # IMA.js-server
 
 This repository houses the default development server for IMA.js applications.
